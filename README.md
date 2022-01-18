@@ -29,7 +29,5 @@ I'm Qari Sahab aka Talha Iqbal from Pakistan. I'm a college student as well as a
 ![](https://github-readme-streak-stats.herokuapp.com/?user=QariTheDev&theme=dark&hide_border=true)
   
 ![](https://github-readme-stats.vercel.app/api?username=QariTheDev&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark)
-
-[![](https://spotify-github-profile.vercel.app/api/view?uid=zrei8evwinfjy9d27fjon68hh&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=zrei8evwinfjy9d27fjon68hh&redirect=true)
-  
-  
+ 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=k2t3y71nep9dpf9sgqal5bz7s&cover_image=true&theme=novatorem&bar_color_cover=true&bar_color=53b14f)](https://github.com/kittinan/spotify-github-profile)
