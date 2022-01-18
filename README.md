@@ -31,3 +31,19 @@ I'm Qari Sahab aka Talha Iqbal from Pakistan. I'm a college student as well as a
 ![](https://github-readme-stats.vercel.app/api?username=QariTheDev&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark)
  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=k2t3y71nep9dpf9sgqal5bz7s&cover_image=true&theme=novatorem&bar_color_cover=true&bar_color=53b14f)](https://github.com/kittinan/spotify-github-profile)
+   
+
+<a href="https://www.facebook.com/talha.iqbal.3511/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/fb.png" alt="Facebook" width="30"></a>
+<a href="https://twitter.com/IamTalhahIqbal" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/tw.png" alt="Twitter" width="30"></a>
+<a href="https://discord.com/users/411735063227793410" target="_blank"><img src="https://user-images.githubusercontent.com/88932788/150001924-c4b89ff0-3f1f-438c-b3f5-694ec2113cf4.png" alt="Discord" width="48"></a>
+<a href="https://www.instagram.com/talha_iq777/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
+<a href="https://github.com/QariTheDev" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
+          
+
+![](https://komarev.com/ghpvc/?username=QariTheDev&style=flat-square)
+![status](https://dev.discordprofiles.me/badge/status/594853883742912512?style=flat-square)
+![playing](https://dev.discordprofiles.me/badge/playing/594853883742912512?style=flat-square)
+![vscode](https://dev.discordprofiles.me/badge/vscode/594853883742912512?style=flat-square)
+[![spotify](https://dev.discordprofiles.me/badge/spotify/594853883742912512?style=flat-square)](https://dev.discordprofiles.me/openspotify/594853883742912512?style=flat-square)
+    
+</div>
