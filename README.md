@@ -22,8 +22,7 @@ I'm Qari Sahab aka Talha Iqbal from Pakistan. I'm a college student as well as a
 <img width="35px" src="https://cdn.discordapp.com/emojis/813909686449078353.png?v=1" />
 <img width="35px" src="https://cdn.discordapp.com/emojis/813909685542584321.png?v=1" />
 <img width="35px" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/148556370/original/df0d65f1c957ef7dd6a3e8f75b3965601819e4f4/host-your-discord-py-bot.jpg" />
-<img width="35px" src="https://cdn.discordapp.com/emojis/754345273328664676.gif?v=1" />
-<hr>
+
 
 ### 🔖 My Statistics
 ![](https://github-readme-streak-stats.herokuapp.com/?user=QariTheDev&theme=dark&hide_border=true)
